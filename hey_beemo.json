@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "hey bmo",
   "author": "Andrei",
-  "website": "",
-  "model": "hey_beemo.tflite",
+  "website": "https://github.com/andrewbeyou88/",
+  "model": "https://github.com/andrewbeyou88/uXUbYJ34sxDN11/blob/main/hey_beemo.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
@@ -11,6 +11,6 @@
     "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 22860,
-    "minimum_esphome_version": "2024.7"
+    "minimum_esphome_version": "2024.7.0"
   }
 }
