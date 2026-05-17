@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey beemo",
+  "wake_word": "hey bmo",
   "author": "Andrei",
   "website": "",
   "model": "hey_beemo.tflite",
