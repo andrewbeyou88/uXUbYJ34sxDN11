@@ -3,7 +3,7 @@
   "wake_word": "hey beemo",
   "author": "Andrei",
   "website": "https://github.com/andrewbeyou88/",
-  "model": "https://github.com/andrewbeyou88/uXUbYJ34sxDN11/blob/main/hey_beemo.tflite",
+  "model": "https://raw.githubusercontent.com/andrewbeyou88/uXUbYJ34sxDN11/refs/heads/main/hey_beemo.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
